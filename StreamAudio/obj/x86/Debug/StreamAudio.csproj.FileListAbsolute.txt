@@ -1,0 +1,11 @@
+e:\profiles\users\hapyl_000\documents\visual studio 2010\Projects\StreamAudio\StreamAudio\bin\Debug\StreamAudio.exe
+e:\profiles\users\hapyl_000\documents\visual studio 2010\Projects\StreamAudio\StreamAudio\bin\Debug\StreamAudio.pdb
+e:\profiles\users\hapyl_000\documents\visual studio 2010\Projects\StreamAudio\StreamAudio\bin\Debug\NAudio.dll
+e:\profiles\users\hapyl_000\documents\visual studio 2010\Projects\StreamAudio\StreamAudio\bin\Debug\NAudio.WindowsMediaFormat.dll
+e:\profiles\users\hapyl_000\documents\visual studio 2010\Projects\StreamAudio\StreamAudio\bin\Debug\NAudio.xml
+e:\profiles\users\hapyl_000\documents\visual studio 2010\Projects\StreamAudio\StreamAudio\obj\x86\Debug\StreamAudio.csprojResolveAssemblyReference.cache
+e:\profiles\users\hapyl_000\documents\visual studio 2010\Projects\StreamAudio\StreamAudio\obj\x86\Debug\StreamAudio.exe
+e:\profiles\users\hapyl_000\documents\visual studio 2010\Projects\StreamAudio\StreamAudio\obj\x86\Debug\StreamAudio.pdb
+e:\profiles\users\hapyl_000\documents\visual studio 2010\Projects\StreamAudio\StreamAudio\bin\Debug\Renci.SshNet.dll
+e:\profiles\users\hapyl_000\documents\visual studio 2010\Projects\StreamAudio\StreamAudio\bin\Debug\Renci.SshNet.pdb
+e:\profiles\users\hapyl_000\documents\visual studio 2010\Projects\StreamAudio\StreamAudio\bin\Debug\Renci.SshNet.xml
