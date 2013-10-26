@@ -1,0 +1,13 @@
+E:\git\StreamAudio\NAudio-Source\NAudio\bin\Debug\NAudio.dll
+E:\git\StreamAudio\NAudio-Source\NAudio\bin\Debug\NAudio.pdb
+E:\git\StreamAudio\NAudio-Source\NAudio\obj\Debug\NAudio.Gui.Fader.resources
+E:\git\StreamAudio\NAudio-Source\NAudio\obj\Debug\NAudio.Gui.Graph.resources
+E:\git\StreamAudio\NAudio-Source\NAudio\obj\Debug\NAudio.Gui.LcdPanel.resources
+E:\git\StreamAudio\NAudio-Source\NAudio\obj\Debug\NAudio.Gui.PanSlider.resources
+E:\git\StreamAudio\NAudio-Source\NAudio\obj\Debug\NAudio.Gui.Pot.resources
+E:\git\StreamAudio\NAudio-Source\NAudio\obj\Debug\NAudio.Gui.VolumeSlider.resources
+E:\git\StreamAudio\NAudio-Source\NAudio\obj\Debug\NAudio.Gui.WaveViewer.resources
+E:\git\StreamAudio\NAudio-Source\NAudio\obj\Debug\NAudio.Utils.ProgressLog.resources
+E:\git\StreamAudio\NAudio-Source\NAudio\obj\Debug\NAudio.csproj.GenerateResource.Cache
+E:\git\StreamAudio\NAudio-Source\NAudio\obj\Debug\NAudio.dll
+E:\git\StreamAudio\NAudio-Source\NAudio\obj\Debug\NAudio.pdb

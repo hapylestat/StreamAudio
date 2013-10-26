@@ -2,3 +2,7 @@ E:\Profiles\Users\hapyl_000\Documents\Visual Studio 2010\Projects\StreamAudio\Re
 E:\Profiles\Users\hapyl_000\Documents\Visual Studio 2010\Projects\StreamAudio\Renci.SshNet\bin\Debug\Renci.SshNet.pdb
 E:\Profiles\Users\hapyl_000\Documents\Visual Studio 2010\Projects\StreamAudio\Renci.SshNet\obj\Debug\Renci.SshNet.dll
 E:\Profiles\Users\hapyl_000\Documents\Visual Studio 2010\Projects\StreamAudio\Renci.SshNet\obj\Debug\Renci.SshNet.pdb
+E:\git\StreamAudio\Renci.SshNet\bin\Debug\Renci.SshNet.dll
+E:\git\StreamAudio\Renci.SshNet\bin\Debug\Renci.SshNet.pdb
+E:\git\StreamAudio\Renci.SshNet\obj\Debug\Renci.SshNet.dll
+E:\git\StreamAudio\Renci.SshNet\obj\Debug\Renci.SshNet.pdb
