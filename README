@@ -1,0 +1,37 @@
+ABOUT
+------
+Application allows u to stream audio output from Windows Audio Device to Pulse Audio Server (in maner linco & plink).
+
+
+Application uses such libraries:
+---------------------------------
+
+- NAudio, capture audio stream (http://naudio.codeplex.com/)
+- SSH.NET, for talking with remote pulseaudio server. (https://sshnet.codeplex.com/)
+
+Server requirements:
+---------------------
+- Installed and running PulseAudio server.
+- Available nc binary.
+
+How stream are streamed:
+------------------------
+Sound are passed to PulseAudio server via "pacat --playback command", so no additional modules required for PulseAudio.
+
+Application params:
+--------------------
+StreamAudio.exe --host <ip> --user <remote ssh user> --pass <remote ssh pass> --port <port number>
+
+
+*Port number can be passed randomly.
+
+
+
+Warning
+--------
+This is very early pre-alpha, in other words "proof of concept".
+
+Build environment:
+-------------------
+ - Microsoft .NET Framework 4.0
+ - Microsoft Visual Studio 2010
