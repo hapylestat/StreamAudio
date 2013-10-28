@@ -1,0 +1,17 @@
+E:\git\StreamAudio\StreamAudio\obj\x64\Debug\StreamAudio.csprojResolveAssemblyReference.cache
+E:\git\StreamAudio\StreamAudio\obj\x64\Debug\StreamAudio.csproj.GenerateResource.Cache
+E:\git\StreamAudio\StreamAudio\bin\x64\Debug\StreamAudio.exe
+E:\git\StreamAudio\StreamAudio\bin\x64\Debug\StreamAudio.pdb
+E:\git\StreamAudio\StreamAudio\bin\x64\Debug\BlackCore.dll
+E:\git\StreamAudio\StreamAudio\bin\x64\Debug\NAudio.dll
+E:\git\StreamAudio\StreamAudio\bin\x64\Debug\Renci.SshNet.dll
+E:\git\StreamAudio\StreamAudio\bin\x64\Debug\SQLite.dll
+E:\git\StreamAudio\StreamAudio\bin\x64\Debug\BlackCore.pdb
+E:\git\StreamAudio\StreamAudio\bin\x64\Debug\NAudio.pdb
+E:\git\StreamAudio\StreamAudio\bin\x64\Debug\Renci.SshNet.pdb
+E:\git\StreamAudio\StreamAudio\bin\x64\Debug\SQLite.pdb
+E:\git\StreamAudio\StreamAudio\obj\x64\Debug\StreamAudio.resources.DynLibraries.resources
+E:\git\StreamAudio\StreamAudio\obj\x64\Debug\StreamAudio.exe
+E:\git\StreamAudio\StreamAudio\obj\x64\Debug\StreamAudio.pdb
+E:\git\StreamAudio\StreamAudio_Bin\StreamAudio.exe
+E:\git\StreamAudio\StreamAudio_Bin\StreamAudio.pdb
