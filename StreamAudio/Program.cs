@@ -13,6 +13,7 @@ namespace StreamAudio
        static SshClient sshClient;
        static ShellStream shell;
        static System.Net.Sockets.TcpClient client;
+       static System.IO.Stream upStream;
 
        static byte[] GetBytes(string data)
        {
@@ -42,7 +43,6 @@ namespace StreamAudio
            Console.WriteLine("Selected device is " + selWav.ToString());
 
 
-
            sshClient = new SshClient(args["host"], args["user"], args["pass"]);
            sshClient.Connect();
 
@@ -57,6 +57,7 @@ namespace StreamAudio
                Console.WriteLine("Try to connect...");
                client.Connect(args["host"], int.Parse(args["port"]));
                if (!client.Connected) return;
+               upStream = client.GetStream();
 
                //====================
 
@@ -82,8 +83,8 @@ namespace StreamAudio
        static void wavInStream_DataAvailable(object sender, WaveInEventArgs e)
        {
 
-           client.GetStream().Write(e.Buffer, 0, e.BytesRecorded);
-           client.GetStream().Flush();
+           upStream.Write(e.Buffer, 0, e.BytesRecorded);
+           upStream.Flush();
            // shell.Write(e.Buffer, 0, e.BytesRecorded);       
            //shell.Flush();
 

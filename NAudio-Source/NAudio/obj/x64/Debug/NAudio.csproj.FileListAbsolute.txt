@@ -16,3 +16,4 @@ E:\git\StreamAudio\NAudio-Source\StreamAudio_Bin\NAudio.dll
 E:\git\StreamAudio\NAudio-Source\StreamAudio_Bin\NAudio.pdb
 E:\git\StreamAudio\StreamAudio_Bin\NAudio.dll
 E:\git\StreamAudio\StreamAudio_Bin\NAudio.pdb
+E:\git\StreamAudio\NAudio-Source\NAudio\obj\x64\Debug\NAudio.csprojResolveAssemblyReference.cache
